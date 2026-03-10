@@ -258,7 +258,7 @@ irqreturn_t __handle_irq_event_percpu(struct irq_desc *desc, unsigned int *flags
 ...
 ```
 res = action->handler(irq, action->dev_id);
-	에서 핸들러 호출, irq는 인터럽트 번호, action->dev_id은 핸들러 전달 매개변수
+	핸들러 호출, irq는 인터럽트 번호, action->dev_id은 핸들러 전달 매개변수
 	action->dev_id 의 경우 request_irq()로 헨들러 등록시 다섯번째 매개변수에 해당한다
 		request_irq() 은 [[raspbian_4.19/interrupt/information|information]]에서 기술
 trace_irq_handler_entry(irq, action); trace_irq_handler_exit(irq, action, res);
