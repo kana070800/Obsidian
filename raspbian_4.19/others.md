@@ -46,6 +46,15 @@ info "명령어" >> 해당 명령어의 정보 출력
 sched_process_exec 이벤트 ftrace로 파일 위치를 알 수 있다
 
 
+linked list
+	list_head 구조체의 연결을 통해 정의
+		%%include/linux/types.h%%
+	관련 함수, 메크로의 정의
+		%%include/linux/list.h%%
+
+
+
+
 gdb를 통한 시스템콜 어셈블리 디버깅 방법
 --
 	책 1권 263p

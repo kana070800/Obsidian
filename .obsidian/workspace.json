@@ -27,16 +27,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "telechips_class/C_programming/2026-3-10.md",
+                "file": "telechips_class/C_programming/2026-3-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-3-10"
+              "title": "2026-3-11"
+            }
+          },
+          {
+            "id": "c814e7e136c1a9d6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "telechips_class/C_programming/Drawing 2026-03-11 12.12.38.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-11 12.12.38.excalidraw"
+            }
+          },
+          {
+            "id": "ebedfec2b6f5c136",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "telechips_class/C_programming/C언어_교육자료.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "C언어_교육자료"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,36 +220,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b6aff27bb4d9ab4",
+  "active": "c814e7e136c1a9d6",
   "lastOpenFiles": [
     "telechips_class/C_programming/C언어_교육자료.pdf",
+    "telechips_class/C_programming/Drawing 2026-03-11 12.12.38.excalidraw.md",
+    "telechips_class/C_programming/2026-3-11.md",
+    "telechips_class/시간표.md",
+    "raspbian_4.19/process/task_struct.md",
+    "raspbian_4.19/process/thread_info.md",
+    "raspbian_4.19/process/information.md",
+    "raspbian_4.19/구조.md",
+    "raspbian_4.19/others.md",
     "telechips_class/C_programming/2026-3-10.md",
+    "raspbian_4.19/system_call/syscalls.md",
+    "telechips_class/C_programming/2026-3-03.md",
+    "telechips_class/C_programming/2026-3-04.md",
+    "telechips_class/C_programming/2026-3-06.md",
+    "telechips_class/C_programming/2026-3-08.md",
+    "raspbian_4.19/signal/information.md",
+    "telechips_class/C_programming/포인터_배열_함수_개념정리.pdf",
+    "telechips_class/C_programming/2026-3-09.md",
     "Pasted image 20260310145534.png",
-    "telechips_class/C_programming/2026-3-6.md",
-    "telechips_class/C_programming/2026-3-8.md",
-    "telechips_class/C_programming/2026-3-9.md",
-    "telechips_class/C_programming/2026-3-5.md",
-    "telechips_class/C_programming/2026-3-4.md",
-    "telechips_class/C_programming/2026-3-3.md",
+    "telechips_class/C_programming/2026-3-05.md",
     "telechips_class/C_programming/2026-2-26.md",
     "telechips_class/C_programming/2026-2-27.md",
     "raspbian_4.19/softirq/softirq에서 컨텍스트 흐름.md",
-    "raspbian_4.19/signal/information.md",
-    "raspbian_4.19/process/thread_info.md",
-    "raspbian_4.19/process/task_struct.md",
-    "raspbian_4.19/process/information.md",
     "raspbian_4.19/process/프로세스 종료.md",
     "raspbian_4.19/process/커널 스레드 생성.md",
     "raspbian_4.19/process/_do_fork().md",
     "raspbian_4.19/interrupt/bottom half/information.md",
     "raspbian_4.19/interrupt/bottom half/irq_thread.md",
-    "raspbian_4.19/interrupt/bottom half/tasklet.md",
-    "raspbian_4.19/interrupt/information.md",
-    "raspbian_4.19/interrupt/irq_desc.md",
-    "raspbian_4.19/interrupt/interrupt 시 컨텍스트 흐름.md",
-    "raspbian_4.19/구조.md",
-    "raspbian_4.19/system_call/syscalls.md",
-    "telechips_class/C_programming/포인터_배열_함수_개념정리.pdf",
     "raspbian_4.19/scheduling",
     "raspbian_4.19/interrupt/bottom half",
     "telechips_class/C_programming/3조_포인터_배열_함수_개념정리.pdf",
